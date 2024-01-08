@@ -28,7 +28,7 @@ Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utili
 
 📚 🎵 Mi piace leggere e ascoltare musica di ogni genere 
 
-⚽ 🏋️ Mi piace giocare a calcio e andare in palestra
+⚽ 🏋️ Amo giocare a calcio e andare in palestra
 <!--
 **angelopapa/angelopapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
