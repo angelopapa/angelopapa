@@ -1,51 +1,34 @@
-<h3 align="center">👋 Buongiorno!</h3>
+<h3 align="center">👋 Ciao</h3>
 
 ---
 
-My name is Gabriele Degola and I am a software engineer with strong interest in AI, experienced in video streaming and computer vision. Currently working at [CAMNET](https://www.wamagroup.it/31/camnet-s-r-l).
+Mi chiamo Angelo Papa e sono un Junior Software Developer con una grande passione per la tecnologia e l'AI. 
 
-I am a graduate in *Data Science and Engineering* from *Politecnico di Torino*, Italy, and *Grenoble INP - Ensimag*, France, where I followed an Erasmus+ double degree lasting 18 months. I conducted my Master's Thesis at [*Neovision*](https://neovision.fr/en/), focusing on the *domain adaptation* problem in computer vision, with title [Approaches for Domain Adaptive Object Detection in Production Environments](http://webthesis.biblio.polito.it/id/eprint/22642).
-
----
-
-🎓 **My educations:**
-- Master of Science in *Data Science and Engineering* at Politecnico di Torino
-- Master of Engineering in *Information Systems Engineering* at Grenoble INP - Ensimag, following a path in *Data Science and Artificial Intelligence*
-- Bachelor of Science in *Computer Engineering* at Politecnico di Torino
-
-
-🛠️ **My coolest projects:**
-- A [distributed big data pipeline of book reviews](https://github.com/gabridego/book-reviews-processing), performing word count and sentiment analysis
-- Tackled the [incremental learning in image classification](https://github.com/gabridego/MLDL20_Incremental_Learning) problem through clustering and GANs
-- A [smart parking](https://colab.research.google.com/drive/1xyzOMMt3ZT2X23l-SyhueuMNpC89NG3t?usp=sharing) solution to detect free parking spots using deep neural networks and computer vision
-- A cool [dashboard of greenhouse gas emission](https://github.com/gabridego/greenhouse-gas-emissions-dashboard) per country and year, based on open data
-- Implementation of [kernel methods for image classification](https://github.com/gabridego/kernel-methods)
-- Used genetic algorithms to solve the [examination timetabling problem](https://github.com/gabridego/timetabling-problem-solver)
-
-<!--
-projects to add:
-- github repo for smart parking
-- sentiment analysis for data science lab
-- tesina mathematics in machine learning
-- statistical methods for forecasting
-- natural language processing: bert
--->
-
-
-📫 **How to reach me:**
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/gabrieledegola)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriele.degola@gmail.com)
+Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utilizzare differenti linguaggi/framework e tecnologie di programmazione, sono aperto a nuove sfide che mi consentano di iniziare la mia carriera nel settore.
 
 ---
 
-🤠 **Extra information about me:**
+🎓 **Istruzione e Formazione:**
+- Formazione come *Functional Analyst* presso Deloitte NextHub Academy a Bari.
+- Diploma di Tecnico Superiore di tipo Europeo – V EQF presso ITS APULIA DIGITAL MAKER a Bari.
+- Diploma Istituto Tecnico e Professionale presso I.I.S. "TEN. R. RIGHETTI" a Melfi(PZ).
 
-🥾 I love hiking and walked the *Camino de Santiago*, French Way, in April and May 2022
 
-📚 🎵 I enjoy reading and listening to a lot of music during my free time
 
-🧘 I am a beginner in yoga, mindfulness and breathing
+📫 **Contattami:**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/angelopapa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelopapa02it@gmail.com)
+
+---
+
+🙋🏻 **Altro su di me:**
+
+📺 🎮 Mi piace guardare anime e giocare ai videogiochi
+
+📚 🎵 Mi piace leggere e ascoltare musica di ogni genere 
+
+⚽ 🏋️ Mi piace giocare a calcio e andare in palestra
 <!--
 **angelopapa/angelopapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
