@@ -2,7 +2,7 @@
 
 ---
 
-Mi chiamo Angelo Papa e sono un Junior Software Developer con una grande passione per la tecnologia e l'AI. 
+Sono Angelo Papa e sono un Junior Software Developer con una grande passione per la tecnologia e l'AI. 
 
 Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utilizzare differenti linguaggi/framework e tecnologie di programmazione, sono aperto a nuove sfide che mi consentano di iniziare la mia carriera nel settore.
 
