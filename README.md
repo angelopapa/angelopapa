@@ -9,8 +9,8 @@ Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utili
 ---
 
 🎓 **Istruzione e Formazione:**
-- Formazione come *Functional Analyst* presso Deloitte NextHub Academy a Bari.
-- Diploma come sviluppatore software presso ITS APULIA DIGITAL MAKER a Bari.
+- Corso di *Functional Analyst* presso Deloitte NextHub Academy a Bari.
+- COrso da sviluppatore software presso ITS APULIA DIGITAL MAKER a Bari.
 - Diploma Istituto Tecnico e Professionale presso I.I.S. "TEN. R. RIGHETTI" a Melfi (PZ).
 
 
