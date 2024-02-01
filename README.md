@@ -1,6 +1,6 @@
-<h3 align="center">👋 Ciao</h3>
-![Header](./github_header.png)
+![Header](./[github_header.png](https://github.com/angelopapa/angelopapa/blob/main/github_header.png))
 ---
+<h3 align="center">👋 Ciao</h3>
 
 Sono Angelo Papa e sono un ragazzo con una grande passione per la tecnologia e l'IA. 
 
