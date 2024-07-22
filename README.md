@@ -2,11 +2,16 @@
 ---
 <h3 align="center">👋 Ciao</h3>
 
-Sono Angelo Papa e sono un ragazzo con una grande passione per la tecnologia e l'IA. 
+Sono Angelo Papa e sono un ragazzo con una grande passione per la programmazione e la tecnologia. 
 
 Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utilizzare differenti linguaggi/framework e tecnologie di programmazione, sono aperto a nuove sfide che mi consentano di iniziare la mia carriera nel settore.
 
 ---
+
+💼 **Esperienza Professionale:**
+- Attualmente lavoro come Cloud Infrastructure Analyst presso iCubed S.R.L.
+- Stage come Software Developer presso Fincons Group.
+  
 
 🎓 **Istruzione e Formazione:**
 - Corso di *Functional Analyst* presso Deloitte NextHub Academy a Bari.
