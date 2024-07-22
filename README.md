@@ -1,4 +1,4 @@
-![Header](github_header.png)
+
 ---
 <h3 align="center">👋 Ciao</h3>
 
