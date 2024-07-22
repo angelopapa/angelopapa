@@ -9,14 +9,14 @@ Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utili
 ---
 
 💼 **Esperienza Professionale:**
-- Attualmente lavoro come Cloud Infrastructure Analyst presso iCubed S.R.L.
-- Stage come Software Developer presso Fincons Group.
+- Attualmente lavoro come Cloud Infrastructure Analyst presso iCubed S.R.L. | Melfi (PZ).
+- Stage come Software Developer presso Fincons Group | Bari (BA).
   
 
 🎓 **Istruzione e Formazione:**
-- Corso di *Functional Analyst* presso Deloitte NextHub Academy a Bari.
-- Corso da sviluppatore software presso ITS APULIA DIGITAL MAKER a Bari.
-- Diploma Istituto Tecnico e Professionale presso I.I.S. "TEN. R. RIGHETTI" a Melfi (PZ).
+- Corso di *Functional Analyst* presso Deloitte NextHub Academy | Bari (BA).
+- Corso da sviluppatore software presso ITS APULIA DIGITAL MAKER | Bari (BA).
+- Diploma Istituto Tecnico e Professionale presso I.I.S. "TEN. R. RIGHETTI" | Melfi (PZ).
 
 
 
@@ -31,9 +31,9 @@ Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utili
 
 📺 🎮 Mi piace guardare anime e giocare ai videogiochi
 
-📚 🎵 Mi piace leggere e ascoltare musica di ogni genere 
+⚽ 🏋️ Amo giocare a calcio e andare in palestra 
 
-⚽ 🏋️ Amo giocare a calcio e andare in palestra
+📚 🎵 Mi piace leggere e ascoltare musica hip hop/country
 <!--
 **angelopapa/angelopapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
