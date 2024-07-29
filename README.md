@@ -9,7 +9,7 @@ Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utili
 ---
 
 💼 **Esperienza Professionale:**
-- Attualmente lavoro come Cloud Infrastructure Analyst presso iCubed S.R.L. | Melfi (PZ).
+- Attualmente lavoro come Cloud Analyst presso iCubed S.R.L. | Melfi (PZ).
 - Stage come Software Developer presso Fincons Group | Bari (BA).
   
 
