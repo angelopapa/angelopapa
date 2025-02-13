@@ -4,8 +4,6 @@
 
 Sono Angelo Papa e sono un ragazzo con una grande passione per la programmazione e la tecnologia. 
 
-Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utilizzare differenti linguaggi/framework e tecnologie di programmazione, sono aperto a nuove sfide che mi consentano di iniziare la mia carriera nel settore.
-
 ---
 
 💼 **Esperienza Professionale:**
@@ -14,7 +12,7 @@ Ho frequentato l'ITS Apulia Digital Maker dove ho avuto modo di studiare e utili
   
 
 🎓 **Istruzione e Formazione:**
-- Corso di *Functional Analyst* presso Deloitte NextHub Academy | Bari (BA).
+- Academy for Analyst presso Deloitte NextHub Academy | Bari (BA).
 - Corso da sviluppatore software presso ITS APULIA DIGITAL MAKER | Bari (BA).
 - Diploma Istituto Tecnico e Professionale presso I.I.S. "TEN. R. RIGHETTI" | Melfi (PZ).
 
